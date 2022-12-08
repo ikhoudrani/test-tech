@@ -1,0 +1,25 @@
+body {
+  background: #020A1B;
+  color: #ffffff;
+  font-family: 'Merriweather', sans-serif;
+}
+
+
+.App1 {
+  float: left;
+  height: 100px;
+  margin-top: 0; /* Suppression de la marge en haut pour aligner les 2 blocs */
+}
+
+.App2 {
+  padding-bottom: 70;
+  margin-left: 50%;
+}
+
+
+.App-header {
+  float: center;
+  height: 40px;
+  color: green;
+  font-weight: bold;
+}
